@@ -1,2 +1,3 @@
-# dataviz_workshop
+# GW Data
+## Data Visualization in R
 
