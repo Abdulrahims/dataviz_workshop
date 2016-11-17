@@ -7,6 +7,12 @@ https://cran.r-project.org/
 ### Download RStudio here:
 https://www.rstudio.com/
 
+### Goals of this workshop
+
+* Brief introduction to R
+* Familiarity with R packages
+* Ability to pursue your own visualizations
+
 ### Data Source:
 
 http://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_I)
