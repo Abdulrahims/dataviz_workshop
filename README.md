@@ -1,5 +1,5 @@
 # GW Data
-## Data Visualization in R
+## Data Visualization in R Workshop
 
 ### Download R here:
 https://cran.r-project.org/
